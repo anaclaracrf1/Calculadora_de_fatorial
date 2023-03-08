@@ -1,1 +1,4 @@
-# Calculadora_de_fatorial
+# Calculadoras
+Calculadora de:
+- Fatorial
+- Tabuada/multiplicação
