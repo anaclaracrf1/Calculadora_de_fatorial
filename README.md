@@ -4,4 +4,5 @@ Calculadora de:
 - Tabuada/multiplicação
 - Valor da Hipotenusa
 - Real -> Dólar
+- Metros -> Centímetros -> Milímetros
 
